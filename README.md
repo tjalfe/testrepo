@@ -10,6 +10,7 @@ Her kommer endnu flere linier
 
 ## Syntax highlight test
 
+Sample python script
 ```python
 def hest(parm):
   print("Hej")

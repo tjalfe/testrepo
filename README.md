@@ -8,6 +8,8 @@ Yet another line
 
 Her kommer endnu flere linier
 
+## Syntax hightligt test
+
 ```python
 def hest(parm):
   print("Hej")

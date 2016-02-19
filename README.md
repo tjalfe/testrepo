@@ -8,7 +8,7 @@ Yet another line
 
 Her kommer endnu flere linier
 
-## Syntax hightligt test
+## Syntax highlight test
 
 ```python
 def hest(parm):
